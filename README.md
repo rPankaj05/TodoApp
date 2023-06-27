@@ -3,7 +3,7 @@
 
 About the Project... 
 
-This is a simle TODO Application for amrk your daily tasks.
+This is a simple TODO Application for mark your daily tasks.
 
 This is fully responsive and compatible for every devices.
 
