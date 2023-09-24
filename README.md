@@ -21,7 +21,7 @@ After login user can see thier todo task page. User also can logout .
 
 
 
-This is the screenshot of login. Here u can login with your username  and password if yout have acoount other wose you can clickon singup page.
+This is the screenshot of login. Here u can login with your username  and password if yout have acoount other wise you can click on singup page.
 
 ![Login](https://github.com/rPankaj05/TodoApp/blob/master/Screenshots/Screenshot%20(68).png)
 
